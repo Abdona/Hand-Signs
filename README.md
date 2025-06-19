@@ -8,7 +8,7 @@ Hand sign classification
 
 - matplotlib
 - NumPy
-- Tensorflow, keras
+- Tensorflow(keras)
   
 ## Authors
 
