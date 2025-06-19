@@ -1,8 +1,8 @@
 # Hand-Signs
 Hand sign classification 
 
-- Use CNN to classify Hand sign images into alphabetic [A,B,C..... Y]
-- 'Z' and 'J' are not included due to moving gesture.
+- Use CNN to classify Hand sign images into alphabetic [A, B, C..... Y]
+- 'Z' and 'J' are excluded due to the moving gesture.
 
 ## Built With
 
@@ -19,7 +19,7 @@ Hand sign classification
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdulrahmannaserelawady/)
 
 ## Next:
-- Take input from camera and return predicted sign.
+- Take input from the camera and return the predicted sign.
 
 ## Show your support
 
